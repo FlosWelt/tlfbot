@@ -1,2 +1,1 @@
-# tlfbot
-Discord Bot for the tlf Server
+Discord Bot created for TLf: 
