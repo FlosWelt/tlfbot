@@ -1,1 +1,1 @@
-Discord Bot created for TLf: 
+Discord Bot created for the TLf Discord Server: 
